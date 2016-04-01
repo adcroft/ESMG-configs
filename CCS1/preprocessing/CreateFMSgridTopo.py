@@ -5,7 +5,7 @@
 
 import numpy
 import scipy.io
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 #get_ipython().magic(u'matplotlib inline')
 
 
