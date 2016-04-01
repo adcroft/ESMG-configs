@@ -104,7 +104,7 @@ RESTARTFILE = "ice_model.res.nc" ! default = "ice_model.res.nc"
                                 ! The name of the restart file.
 TIMEUNIT = 8.64E+04             !   [s] default = 8.64E+04
                                 ! The time unit for ICE_STATS_INTERVAL.
-ICE_STATS_INTERVAL = 1.0        !   [days] default = 1.0
+ICE_STATS_INTERVAL = 10.0       !   [days] default = 1.0
                                 ! The interval in units of TIMEUNIT between writes of the
                                 ! globally summed ice statistics and conservation checks.
 NCAT_ICE = 5                    !   [nondim] default = 5
